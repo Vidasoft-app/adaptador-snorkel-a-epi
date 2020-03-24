@@ -1,4 +1,4 @@
-# Combertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPI)
+# Convertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPIs)
 
 Proyecto de código abierto, libre para uso de la emergencia sanitaria.
 
