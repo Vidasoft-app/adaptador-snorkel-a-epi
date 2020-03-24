@@ -6,7 +6,7 @@ Proyecto de código abierto, libre para uso de la emergencia sanitaria.
 
 ## ¿Qué es este proyecto?
 
-Se trata de un adaptador para hacer compatible las mascaras tipicas de [Esnórquel](https://es.wikipedia.org/wiki/Esn%C3%B3rquel) con el filtro respiratorio hospitalario.
+Se trata de un adaptador para hacer compatible las mascaras tipicas de [snorkel](https://es.wikipedia.org/wiki/Esn%C3%B3rquel) con el filtro respiratorio hospitalario.
 
 Este adaptador te permite con unos sencillos pasos (PRÓXIMAMENTE) hacer que la mascara pueda servir para ayudar como respiratorio.
 
