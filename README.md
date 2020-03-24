@@ -6,13 +6,13 @@ Proyecto de código abierto, libre para uso de la emergencia sanitaria.
 
 ## ¿De que trata este proyecto?
 
-Se trata de un adaptador para hacer compatible las mascaras tipicas de [snorkel](https://es.wikipedia.org/wiki/Esn%C3%B3rquel) con el filtro respiratorio hospitalario.
+Se trata de un adaptador para hacer compatible las máscaras tipicas de [snorkel](https://es.wikipedia.org/wiki/Esn%C3%B3rquel) con el filtro respiratorio hospitalario.
 
-Este adaptador te permite con unos sencillos pasos (más abajo) hacer que la mascara pueda servir para ayudar como respiratorio.
+Este adaptador te permite con unos sencillos pasos (más abajo) hacer que estas máscaras pueda ayudar como EPIs.
 
-![Mascara snorkel adaptada para ser EPI](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Fotos%20componentes%20de%20la%20mascara/elementos%20mascara_tubo%20seccionado_conector_filtro.jpg)
+![Máscara snorkel adaptada para ser EPI](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Fotos%20componentes%20de%20la%20mascara/elementos%20mascara_tubo%20seccionado_conector_filtro.jpg)
 
-## Mascaras compatibles
+## Máscaras compatibles
 
 * https://www.pccomponentes.com/ksix-mascara-snorkel-para-go-pro-y-camaras-deportivas
 * https://www.decathlon.es/es/p/mascara-snorkel-ensuperficie-easybreath-500-oyster/_/R-p-148873?mc=8491269&c=VERDE_AZUL+TURQUESA
