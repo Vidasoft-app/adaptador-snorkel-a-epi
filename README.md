@@ -1,4 +1,4 @@
-# Adaptador para Mascaras 3D
+# Combertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPI)
 
 Proyecto de código abierto, libre para uso de la emergencia sanitaria.
 
