@@ -1,6 +1,6 @@
 # Convertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPIs)
 
-Ver en [Español](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README.md),[English](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README-en-gb.md)
+Ver en [Español](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README.md), [English](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README-en-gb.md).
 
 > :rotating_light::rotating_light: ❗️❗️❗️**ATENCIÓN❗️❗️❗️ Estamos gestionando la logistica. No es necesario llamar a los cuerpos de seguridad. Nosotros nos pondremos en contacto** :rotating_light::rotating_light:
 
