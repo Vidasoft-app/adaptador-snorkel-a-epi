@@ -1,5 +1,9 @@
 # Convertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPIs)
 
+❗️❗️❗️ATENCIÓN❗️❗️❗️ Estamos gestionando la logistica.
+
+¿Quieres enviarnos tus mascaras de snorkel? Apuntate en el siguiente formulario y te avisamos:
+
 Proyecto de código abierto, libre para uso de la emergencia sanitaria.
 
 ![texto cualquiera por si no carga la imagen](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/cabecera%20PROTOCAS3D.jpg)
