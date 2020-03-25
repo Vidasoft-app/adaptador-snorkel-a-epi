@@ -12,7 +12,7 @@ Este adaptador te permite con unos sencillos pasos (más abajo) hacer que estas 
 
 ![Máscara snorkel adaptada para ser EPI](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Fotos%20componentes%20de%20la%20mascara/elementos%20mascara_tubo%20seccionado_conector_filtro.jpg)
 
-# Requisitos de impresión
+## Requisitos de impresión
 
 * Impresión sin soportes.
 * Extrusor 0,4 (que es el estándar)
