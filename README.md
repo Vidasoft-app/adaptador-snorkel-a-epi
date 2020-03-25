@@ -34,9 +34,10 @@ Código libre, ya sabes :)
 
 ## Proceso de adaptación
 
-Puedes entrar en la wiki o en [este pdf](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Pasos%20para%20adaptar%20o%20modificar%20la%20mascara%20snorkel%20a%20mascara%20EPIs_marzo2020.jpg)
-
+Los pasos son: 
 ![Proceso de adaptación](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Pasos%20para%20adaptar%20o%20modificar%20la%20mascara%20snorkel%20a%20mascara%20EPIs_marzo2020.jpg)
+
+También te los puedes descargar en PDF [pulsando en este enlace](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Pasos%20para%20adaptar%20o%20modificar%20la%20mascara%20snorkel%20a%20mascara%20EPIs_marzo2020.jpg)
 
 ## ¿Tienes dudas o quieres colaborar?
 
