@@ -6,6 +6,8 @@ Ver en [Español](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protoc
 
 >*¿Quieres enviarnos tus mascaras de snorkel para ayudar? 
 
+**Ahora mismo disponemos de stock, en caso de que el stock no cubra las necesidades pasaremos a pedir las que podáis ofrecer al proyecto. ¡Muchas gracias!**
+
 Apuntate en el siguiente formulario y te avisamos: [Pulsa aquí para abrir el formulario](https://docs.google.com/forms/d/e/1FAIpQLSezxYxy3WmyTXOMoIjDanEYeUDy_wkx2mv1Bw8BMbQJIfbqTg/viewform)*
 
 Proyecto de código abierto, libre para uso de la emergencia sanitaria.
