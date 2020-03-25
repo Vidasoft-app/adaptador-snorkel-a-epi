@@ -26,6 +26,12 @@ Este adaptador te permite con unos sencillos pasos (más abajo) hacer que estas 
 * https://www.decathlon.es/es/p/mascara-snorkel-ensuperficie-easybreath-500-oyster/_/R-p-148873?mc=8491269&c=VERDE_AZUL+TURQUESA
 * https://www.decathlon.es/es/p/mascara-de-snorkel-en-superficie-easybreath-azul/_/R-p-1616?mc=8526111&c=AZUL_AZUL+TURQUESA
 
+### ¿No esta tu versión?
+
+Tienes las fuentes disponibles [pulsando aquí](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/tree/master/Archivos%203D%20editables%20conector%20a%20filtro%20Version%204) para que puedas adaptarlo a tus necesidades. 
+
+Código libre, ya sabes :)
+
 ## Proceso de adaptación
 
 Puedes entrar en la wiki o en [este pdf](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Pasos%20para%20adaptar%20o%20modificar%20la%20mascara%20snorkel%20a%20mascara%20EPIs_marzo2020.jpg)
