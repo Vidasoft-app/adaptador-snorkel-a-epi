@@ -3,6 +3,7 @@
 > :rotating_light::rotating_light: ❗️❗️❗️**ATENCIÓN❗️❗️❗️ Estamos gestionando la logistica. No es necesario llamar a los cuerpos de seguridad. Nosotros nos pondremos en contacto** :rotating_light::rotating_light:
 
 >*¿Quieres enviarnos tus mascaras de snorkel para ayudar? 
+
 Apuntate en el siguiente formulario y te avisamos: [Pulsa aquí para abrir el formulario](https://docs.google.com/forms/d/e/1FAIpQLSezxYxy3WmyTXOMoIjDanEYeUDy_wkx2mv1Bw8BMbQJIfbqTg/viewform)*
 
 Proyecto de código abierto, libre para uso de la emergencia sanitaria.
