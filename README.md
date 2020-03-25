@@ -1,6 +1,6 @@
 # Convertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPIs)
 
-:rotating_light::rotating_light: ❗️❗️❗️**ATENCIÓN❗️❗️❗️ Estamos gestionando la logistica. No es necesario llamar a los cuerpos de seguridad. Nosotros nos pondremos en contacto** :rotating_light::rotating_light:
+> :rotating_light::rotating_light: ❗️❗️❗️**ATENCIÓN❗️❗️❗️ Estamos gestionando la logistica. No es necesario llamar a los cuerpos de seguridad. Nosotros nos pondremos en contacto** :rotating_light::rotating_light:
 
 *¿Quieres enviarnos tus mascaras de snorkel para ayudar? Apuntate en el siguiente formulario y te avisamos: (PRÓXIMAMENTE)*
 
