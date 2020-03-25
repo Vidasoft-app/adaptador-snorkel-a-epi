@@ -2,15 +2,15 @@
 
 View also in [Español](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README.md), [English](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README-en-gb.md).
 
-Open source project, free for use with the current sanitary emergency.
+Open source project, free for use with the current health emergency.
 
 ![image](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/cabecera%20PROTOCAS3D.jpg)
 
 ## ¿What is this project about?
 
-It's an adapter to make a series of snorkel masks (compatibility list bellow) compatible with the hospital respiratory filter.
+It's an adapter to make a series of snorkel masks compatible with hospital respiratory filters (compatible snorkels below) .
 
-This adapter allows you to, following simple steps (see bellow), make these masks works as an IPE.
+This adapter allows you to, following simple steps (see below), make these masks works as an IPE.
 
 ![Adapted mask to work as IPE](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Fotos%20componentes%20de%20la%20mascara/elementos%20mascara_tubo%20seccionado_conector_filtro.jpg)
 
