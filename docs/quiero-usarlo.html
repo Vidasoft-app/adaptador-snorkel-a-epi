@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Quiero usarlo - Proyecto Adaptador 3D SNORKEL A EPI</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">    
+    <link rel="shortcut icon" href="favicon.ico">  
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!-- FontAwesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
+    <!-- Plugins CSS -->    
+    <link rel="stylesheet" href="assets/plugins/prism/prism.css">
+    <link rel="stylesheet" href="assets/plugins/elegant_font/css/style.css">  
+      
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    
+</head> 
+
+<body class="body-green">
+    <div class="page-wrapper">
+        <!-- ******Header****** -->
+        <header id="header" class="header">
+            <div class="container">
+                <div class="branding">
+                    <h1 class="logo">
+                        <a href="index.html">
+                            <span class="text-highlight">Adaptador 3D</span> <span class="text-bold">Snorkel a EPI</span>
+                        </a>
+                    </h1>
+                    
+                </div><!--//branding-->
+                
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+                    <li class="breadcrumb-item active">Quiero usarlo en mi hospital</li>
+                </ol>
+            </div><!--//container-->
+        </header><!--//header-->
+        <div class="doc-wrapper">
+            <div class="container">
+                <div id="doc-header" class="doc-header text-center">
+                    <h1 class="doc-title"><i class="icon fa fa-hospital-alt"></i> Quiero usarlo en mi hospital</h1>
+                    <div class="meta"><i class="far fa-clock"></i> Última actualización: 26/03/2020</div>
+                </div><!--//doc-header-->
+                <div class="doc-body row">
+                    <div class="doc-content col-md-9 col-12 order-1">
+                        <div class="content-inner">
+                            <section id="requirements-section" class="doc-section">
+                                <h2 class="section-title">Requisitos de impresión</h2>
+                                <div class="section-block">
+                                    <ul class="list">
+                                        <li>Impresión sin soportes</li>
+                                        <li>Extrusor 0.4 (que es el estándar)</li>
+                                        <li>Temperatura extrusor 210</li>
+                                        <li>Cama 50</li>
+                                        <li>Material PLA (es el que utilizamos nosotros)</li>
+                                    </ul>
+                                </div>
+                            </section><!--//doc-section-->
+                            <section id="download-section" class="doc-section">
+                                <h2 class="section-title">Descargar los modelados 3D</h2>
+                                <div class="section-block">
+                                    <p>Los modelos los puedes descargar pulsando en "descargar". Está diseñado para una serie de máscaras snorkel compatibles (ver lista más abajo). Si no está tu modelo de snorkel, puedes modificar libremente los archivos fuente para que cumpla tus necesidades.</p>
+                                    <a href="https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/archive/master.zip" class="btn btn-green" target="_blank"><i class="fas fa-download"></i> Descargar</a>
+                                </div>
+                            </section><!--//doc-section-->
+                            <section id="adaptation-section" class="doc-section">
+                                <h2 class="section-title">Proceso de adaptacion a máscara EPI</h2>
+                                <div id="step1"  class="section-block">
+                                    <h3 class="block-title">Paso 1</h3>
+                                    <p>Desmontar el tubo de la máscara, medir y marcar una longitud de 7 cm. Encintar con cinta de pintor y cortar con sierra para tubos y perfiles metálicos</p>
+                                    <img class="img-fluid" src="assets/images/pasos/paso1.jpg" alt="paso1" />
+                                </div><!--//section-block-->
+                                <div id="step2"  class="section-block">
+                                    <h3 class="block-title">Paso 2</h3>
+                                    <p>Retirar la cinta y lijar el borde con papel para quitar restos del corte. Soplar y lavar la pieza con agua. Secar con papel.</p>
+                                    <img class="img-fluid" src="assets/images/pasos/paso2.jpg" alt="paso2" />
+                                </div><!--//section-block-->
+                                <div id="step3"  class="section-block">
+                                    <h3 class="block-title">Paso 3</h3>
+                                    <p>Imprimir archivo STL, sin soportes en material PLA, ajustes estándar, extrusor 210, cama 50</p>
+                                    <img class="img-fluid" src="assets/images/pasos/paso3.jpg" alt="paso3" />
+                                </div><!--//section-block-->
+                                <div id="step4"  class="section-block">
+                                    <h3 class="block-title">Paso 4</h3>
+                                    <p>Colocar juntas tóricas si están disponibles, sino poner cinta de teflón en el extremo del tubo cortado y en la rosca pequeña de la pieza impresa.</p>
+                                    <img class="img-fluid" src="assets/images/pasos/paso4.jpg" alt="paso4" />
+                                </div><!--//section-block-->
+                                <div id="step5"  class="section-block">
+                                    <h3 class="block-title">Paso 5</h3>
+                                    <p>El filtro inicialmente es una referencia de los hospitales, insumo deshechable con filtro HEPA-H13.</p>
+                                    <img class="img-fluid" src="assets/images/pasos/paso5.jpg" alt="paso5" />
+                                </div><!--//section-block-->
+                            </section><!--//doc-section-->
+                        </div><!--//content-inner-->
+                    </div><!--//doc-content-->
+                    <div class="doc-sidebar col-md-3 col-12 order-0 d-none d-md-flex">
+                        <div id="doc-nav" class="doc-nav">
+	                        
+	                            <nav id="doc-menu" class="nav doc-menu flex-column sticky">
+	                                <a class="nav-link scrollto" href="#requirements-section">Requisitos de impresión</a>
+	                                <a class="nav-link scrollto" href="#download-section">Descargar los modelados 3D</a>
+                                    <a class="nav-link scrollto" href="#adaptation-section">Proceso de adaptación a máscara EPI</a>
+                                    <nav class="doc-sub-menu nav flex-column">
+                                        <a class="nav-link scrollto" href="#step1">Paso 1</a>
+                                        <a class="nav-link scrollto" href="#step2">Paso 2</a>
+                                        <a class="nav-link scrollto" href="#step3">Paso 3</a>
+                                        <a class="nav-link scrollto" href="#step4">Paso 4</a>
+                                        <a class="nav-link scrollto" href="#step5">Paso 5</a>
+                                    </nav><!--//nav-->
+	                            </nav><!--//doc-menu-->
+	                        
+                        </div>
+                    </div><!--//doc-sidebar-->
+                </div><!--//doc-body-->              
+            </div><!--//container-->
+        </div><!--//doc-wrapper-->
+        
+    </div><!--//page-wrapper-->
+    
+    <footer id="footer" class="footer text-center">
+        <div class="container">
+            <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+            <small class="copyright">Creado por <a href="https://vidasoft.es" target="_blank">Vidasoft</a> para ayudar <i class="fas fa-heart"></i></small>
+
+        </div><!--//container-->
+    </footer><!--//footer-->
+    
+     
+    <!-- Main Javascript -->          
+    <script type="text/javascript" src="assets/plugins/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/prism/prism.js"></script>    
+    <script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>      
+    <script type="text/javascript" src="assets/plugins/stickyfill/dist/stickyfill.min.js"></script>                                                             
+    <script type="text/javascript" src="assets/js/main.js"></script>
+    
+</body>
+</html> 
+
