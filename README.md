@@ -55,7 +55,7 @@ Puedes ponerte en contacto con quien hace la impresión 3D:
 
 * Nombre: David Güimil
 * Empresa: PROTOCAS3D S.L. (servicios de impresión3D)
-* Teléfono: 678561303
+* Teléfono: 678561303 :rotating_light:(por favor, solo llamar si es necesario sino solamente envianos un correo a coronavirus@vidasoft.es):rotating_light:
 * Mail: proyectos@protocas3d.com
 * Web: www.protocas3d.com
 * Dirección: Ronda Mijares nº 11.  - 12001 Castellón - SPAIN
