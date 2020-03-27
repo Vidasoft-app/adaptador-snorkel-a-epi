@@ -56,7 +56,7 @@ También te los puedes descargar en PDF [pulsando en este enlace](https://github
 
 ## ¿Como ponerse la máscara correctamente?
 
-Te lo explicamos en [este vídeo] (https://www.youtube.com/watch?v=PjzaguY-Ay0)
+Te lo explicamos en [este vídeo](https://www.youtube.com/watch?v=PjzaguY-Ay0)
 
 
 ## ¿Tienes dudas o quieres colaborar?
