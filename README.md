@@ -53,6 +53,12 @@ Los pasos son:
 
 También te los puedes descargar en PDF [pulsando en este enlace](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Pasos%20para%20adaptar%20o%20modificar%20la%20mascara%20snorkel%20a%20mascara%20EPIs_marzo2020.pdf)
 
+
+## ¿Como ponerse la máscara correctamente?
+
+Te lo explicamos en [este vídeo] (https://www.youtube.com/watch?v=PjzaguY-Ay0)
+
+
 ## ¿Tienes dudas o quieres colaborar?
 
 Puedes ponerte en contacto con quien hace la impresión 3D:
