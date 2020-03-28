@@ -19,6 +19,15 @@
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
 
+    <link rel="stylesheet" href="assets/plugins/cookiealert/cookiealert.css">
+
+<!--    <script src="cookiealert-dependencies.js"></script>-->
+    <!-- cookiealert.css -->
+<!--    <link rel="stylesheet" href="cookiealert.css">-->
+
+
+<!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>-->
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132880701-2"></script>
     <script>
@@ -187,13 +196,23 @@
         </div><!--//container-->
     </footer><!--//footer-->
 
+    <!-- START Bootstrap-Cookie-Alert -->
+    <div class="alert text-center cookiealert" role="alert">
+        <b>¿Aceptar cookies?</b> &#x1F36A; Usamos las cookies para hacer mejoras en la web con cookies de estadísticas.</a>
+
+        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+            Acepto
+        </button>
+    </div>
+    <!-- END Bootstrap-Cookie-Alert -->
+
 
     <!-- Main Javascript -->
     <script type="text/javascript" src="assets/plugins/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/plugins/stickyfill/dist/stickyfill.min.js"></script>
     <script type="text/javascript" src="assets/js/main.js"></script>
-
+    <script type="text/javascript" src="assets/plugins/cookiealert/cookiealert.js"></script>
 </body>
 </html>
 
