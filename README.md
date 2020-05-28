@@ -6,23 +6,25 @@ Ver en [Español](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protoc
 [Entra en la página web oficial](https://coronavirus.vidasoft.es)
 
 
-> :rotating_light::rotating_light: ❗️❗️❗️**ATENCIÓN❗️❗️❗️ Estamos gestionando la logistica. No es necesario llamar a los cuerpos de seguridad. Nosotros nos pondremos en contacto** :rotating_light::rotating_light:
-
->*¿Quieres enviarnos tus mascaras de snorkel para ayudar? 
-
-Apuntate en el siguiente formulario y te avisamos: [Pulsa aquí para abrir el formulario](https://docs.google.com/forms/d/e/1FAIpQLSezxYxy3WmyTXOMoIjDanEYeUDy_wkx2mv1Bw8BMbQJIfbqTg/viewform)*
-
 Proyecto de código abierto, libre para uso de la emergencia sanitaria.
 
-![texto cualquiera por si no carga la imagen](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/cabecera%20PROTOCAS3D.jpg)
+![imagen explicativa adaptación máscara buceo snorkel a EPIs sanitario](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/cabecera%20PROTOCAS3D.jpg)
 
 ## ¿De que trata este proyecto?
 
-Se trata de un adaptador para hacer compatible las máscaras tipicas de [snorkel](https://es.wikipedia.org/wiki/Esn%C3%B3rquel) con el filtro respiratorio hospitalario.
+Se trata de un adaptador para hacer compatible las máscaras de [snorkel](https://es.wikipedia.org/wiki/Esn%C3%B3rquel) con el filtro respiratorio hospitalario de forma que puedas usar la máscara de Snorkel de 2 maneras:
+
+1. EPIs sanitario. Protección individual más completa y aislante.
+2. Máscara para respirador (con CPAP) para uso no invasivo.
+
+Estas piezas para EPIs o CPAP se puede crear mediante impresión 3D o mediante mecanizado industrial. 
+
+Por otro lado, también se incluye para impresión 3D el emboltorio del "insumo desechable con filtro HEPA-H13" pero modificado para ser reutilizable. Sabemos que hay sitios dónde estos insumos desechables son un problema y tener esa pieza reutilizable puede ayudar.
 
 Este adaptador te permite con unos sencillos pasos (más abajo) hacer que estas máscaras pueda ayudar como EPIs.
 
 ![Máscara snorkel adaptada para ser EPI](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/Fotos%20componentes%20de%20la%20mascara/elementos%20mascara_tubo%20seccionado_conector_filtro.jpg)
+Versión protección EPIs.
 
 ## Requisitos de impresión
 
@@ -38,9 +40,20 @@ Este adaptador te permite con unos sencillos pasos (más abajo) hacer que estas 
 * https://www.decathlon.es/es/p/mascara-snorkel-ensuperficie-easybreath-500-oyster/_/R-p-148873?mc=8491269&c=VERDE_AZUL+TURQUESA
 * https://www.decathlon.es/es/p/mascara-de-snorkel-en-superficie-easybreath-azul/_/R-p-1616?mc=8526111&c=AZUL_AZUL+TURQUESA
 
-### ¿No esta tu versión?
+## Enlaces directos a las piezas
 
-Tienes las fuentes disponibles [pulsando aquí](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/tree/master/Archivos%203D%20editables%20conector%20a%20filtro%20Version%204) para que puedas adaptarlo a tus necesidades. 
+* Adaptador EPIs protección individual: 
+  * Versión impresión 3D: [Enlace a las marcas de máscaras compatibles](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/M%C3%A1scara%20snorkel%20a%20EPI_IMPRESI%C3%93N%203D)
+  * Versión Mecanizado: [Enlace a los ficheros](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/M%C3%A1scara%20snorkel%20a%20EPI_MECANIZADO/m%C3%A1scara%20Decathlon)
+* Adaptador CPAP respirador no invasivo:
+  * Versión impresión 3D: [Enlace a las marcas de máscaras compatibles](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/Mascara%20snorkel%20a%20CPAP_IMPRESI%C3%93N%203D)
+  * Versión Mecanizado: [Enlace a los ficheros](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/M%C3%A1scara%20snorkel%20a%20CPAP_MECANIZADO)
+* Emboltorio filtro HEPA-H13: [Enlace a los ficheros]()
+  * Versión impresión 3D: [Enlace a los ficheros](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/Filtro%20re-utilizable%20para%20EPI%20(PPE)_)
+
+### ¿El adaptador no es compatible con tu máscara?
+
+Tienes las fuentes disponibles [pulsando aquí](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/Archivos%203D%20editables%20conector%20a%20filtro%20Version%204) para que puedas adaptarlo a tus necesidades estes dónde estes.
 
 Código libre, ya sabes :)
 
@@ -56,19 +69,12 @@ También te los puedes descargar en PDF [pulsando en este enlace](https://github
 
 Te lo explicamos en [este vídeo](https://www.youtube.com/watch?v=PjzaguY-Ay0)
 
+## ¿Tenemos licencia para tener este proyecto de código libre?
 
-## ¿Tienes dudas o quieres colaborar?
+Si. El proyecto parte de unos médicos Colombianos los cuales nos han dado licencia explicita para compartir.
 
-Puedes ponerte en contacto con quien hace la impresión 3D:
+## ¿Tienes dudas? puedes preguntarnos directamente.
 
-* Nombre: David Güimil
-* Empresa: PROTOCAS3D S.L. (servicios de impresión3D)
-* Teléfono: 678561303 :rotating_light:(por favor, solo llamar si es necesario sino solamente envianos un correo a coronavirus@vidasoft.es):rotating_light:
-* Mail: proyectos@protocas3d.com
-* Web: www.protocas3d.com
-* Dirección: Ronda Mijares nº 11.  - 12001 Castellón - SPAIN
+Puedes ponerte en contacto con todo el equipo del proyecto mediante el correo de:
 
-Puedes poner en contacto con quien mantiene este repositorio:
-
-* Nombre: Victor Guillem
-* Mail: hola@vidasoft.com 
+coronavirus@vidasoft.es
