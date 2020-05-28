@@ -1,6 +1,6 @@
 # Convert Snorkel mask to CPAP & Individual Protection Equipment (IPE)
 
-View also in [Español](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README.md), [English](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d/blob/master/README-en-gb.md).
+View also in [Español](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/blob/master/README.md), [English](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/blob/master/README-en-gb.md).
 
 Open source project, free for use with the current health emergency.
 
@@ -10,9 +10,14 @@ Open source project, free for use with the current health emergency.
 
 It's an adapter to make a series of snorkel masks compatible with hospital respiratory filters (compatible snorkels below) .
 
-``Update!. Now can be used for CPAP adapters ``
+* [Download files for Mechanics IPE](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/M%C3%A1scara%20snorkel%20a%20EPI_MECANIZADO/m%C3%A1scara%20Decathlon)
+* [Download files for 3D Impresion IPE](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/blob/master/M%C3%A1scara%20snorkel%20a%20EPI_IMPRESI%C3%93N%203D/m%C3%A1scara%20Decathlon/conector%20filtro%20V4.STL)
 * [Download files for Mechanics CPAP](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/M%C3%A1scara%20snorkel%20a%20CPAP_MECANIZADO)
-* [Download files for 3D Impresion CPAP](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/Mascara%20snorkel%20a%20CPAP_IMPRESI%C3%93N%203D)
+* [Download files for 3D Impresion CPAP](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/Mascara%20snorkel%20a%20CPAP_IMPRESI%C3%93N%203D/mascara%20Decathlon)
+
+``Update!. Now can be used with reutilizable wrapping filter HEPA-13 ``
+
+* [Download files Impresion Filter](https://github.com/Vidasoft-app/adaptador-snorkel-a-epi/tree/master/Filtro%20re-utilizable%20para%20EPI%20(PPE)_)
  
 This adapter allows you to, following simple steps (see below), make these masks works as an IPE.
 
@@ -47,16 +52,6 @@ You can also download them in PDF [clicking this link](https://github.com/Vidaso
 
 ## ¿Any questions or want to help?
 
-You can contact who made these files and 3D printing:
+You can contact the entire project team by email:
 
-* Name: David Güimil
-* Company: PROTOCAS3D S.L. (servicios de impresión3D)
-* Telephone: 678561303
-* Mail: proyectos@protocas3d.com
-* Web: www.protocas3d.com
-* Address: Ronda Mijares nº 11.  - 12001 Castellón - SPAIN
-
-You can also contact who maintains this repository:
-
-* Name: Victor Guillem
-* Mail: hola@vidasoft.com 
+coronavirus@vidasoft.es
